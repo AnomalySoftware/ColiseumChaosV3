@@ -52,8 +52,8 @@
 /I Runtime\Core\Public\Traits
 /I Runtime\Core\Public\UObject
 /I Runtime\Core\Public\Windows
-/I C:\Users\ender\Desktop\ColiseumChaos-master\Intermediate
-/I C:\Users\ender\Desktop\ColiseumChaos-master\Intermediate\Source
+/I D:\Git\ColiseumChaos\Intermediate
+/I D:\Git\ColiseumChaos\Intermediate\Source
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\ucrt"
@@ -61,11 +61,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\winrt"
 /D_HAS_EXCEPTIONS=0
-/I C:\Users\ender\Desktop\ColiseumChaos-master\Intermediate\Build\Win64\UE4\Shipping\ColiseumChaos
-/Yc"C:\Users\ender\Desktop\ColiseumChaos-master\Intermediate\Build\Win64\UE4\Shipping\ColiseumChaos\PCH.ColiseumChaos.h"
-/Fp"C:\Users\ender\Desktop\ColiseumChaos-master\Intermediate\Build\Win64\UE4\Shipping\ColiseumChaos\PCH.ColiseumChaos.h.pch"
-"C:\Users\ender\Desktop\ColiseumChaos-master\Intermediate\Build\Win64\UE4\Shipping\ColiseumChaos\PCH.ColiseumChaos.cpp"
-/Fo"C:\Users\ender\Desktop\ColiseumChaos-master\Intermediate\Build\Win64\UE4\Shipping\ColiseumChaos\PCH.ColiseumChaos.h.obj"
+/I D:\Git\ColiseumChaos\Intermediate\Build\Win64\UE4\Shipping\ColiseumChaos
+/Yc"D:\Git\ColiseumChaos\Intermediate\Build\Win64\UE4\Shipping\ColiseumChaos\PCH.ColiseumChaos.h"
+/Fp"D:\Git\ColiseumChaos\Intermediate\Build\Win64\UE4\Shipping\ColiseumChaos\PCH.ColiseumChaos.h.pch"
+"D:\Git\ColiseumChaos\Intermediate\Build\Win64\UE4\Shipping\ColiseumChaos\PCH.ColiseumChaos.cpp"
+/Fo"D:\Git\ColiseumChaos\Intermediate\Build\Win64\UE4\Shipping\ColiseumChaos\PCH.ColiseumChaos.h.obj"
 /TP
 /GR-
 /W4

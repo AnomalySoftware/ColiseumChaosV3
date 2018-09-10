@@ -38,7 +38,7 @@
 #define PROJECT_PRODUCT_IDENTIFIER ColiseumChaos
 #define NDEBUG 1
 #define UE_BUILD_SHIPPING 1
-#define UE_ENGINE_DIRECTORY "D:/Epic Games/Fortnite/UE_4.20/Engine/"
+#define UE_ENGINE_DIRECTORY "../../../../Epic Games/Fortnite/UE_4.20/Engine/"
 #define ORIGINAL_FILE_NAME "ColiseumChaos-Win64-Shipping.exe"
 #define UE_IS_ENGINE_MODULE 0
 #define UE_BUILD_DEVELOPMENT_WITH_DEBUGGAME 0
